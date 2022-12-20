@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rucbebr/bonusSystem.git/static/css/main.aef51b63.css",
-    "main.js": "/rucbebr/bonusSystem.git/static/js/main.93606a1e.js",
-    "static/js/787.71df535f.chunk.js": "/rucbebr/bonusSystem.git/static/js/787.71df535f.chunk.js",
-    "index.html": "/rucbebr/bonusSystem.git/index.html",
-    "main.aef51b63.css.map": "/rucbebr/bonusSystem.git/static/css/main.aef51b63.css.map",
-    "main.93606a1e.js.map": "/rucbebr/bonusSystem.git/static/js/main.93606a1e.js.map",
-    "787.71df535f.chunk.js.map": "/rucbebr/bonusSystem.git/static/js/787.71df535f.chunk.js.map"
+    "main.css": "/rucbebr/------/static/css/main.aef51b63.css",
+    "main.js": "/rucbebr/------/static/js/main.c542e55f.js",
+    "static/js/787.71df535f.chunk.js": "/rucbebr/------/static/js/787.71df535f.chunk.js",
+    "index.html": "/rucbebr/------/index.html",
+    "main.aef51b63.css.map": "/rucbebr/------/static/css/main.aef51b63.css.map",
+    "main.c542e55f.js.map": "/rucbebr/------/static/js/main.c542e55f.js.map",
+    "787.71df535f.chunk.js.map": "/rucbebr/------/static/js/787.71df535f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aef51b63.css",
-    "static/js/main.93606a1e.js"
+    "static/js/main.c542e55f.js"
   ]
 }
