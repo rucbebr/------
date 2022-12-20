@@ -1,0 +1,66 @@
+.field {
+    color: #ffffff;
+    border: 1px solid #000000;
+    background: #fff;
+    width: 467px;
+    margin-bottom: 20px;
+    border-radius: 11px;
+}
+
+.field-log{
+    width:247px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+
+.title {
+    font-size: 44px;
+    width: 440px;
+}
+
+.button {
+    background: #f28c28;
+    border: 1.5px solid #353434;
+    box-sizing: border-box;
+    color: white;
+    border-radius: 3;
+    padding: 18px 30px;
+    font-family: 'Montserrat', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.button:hover {
+    background: #cf7c28;
+}
+
+.login {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+
+background: #FFFFFF;
+box-shadow: 0px 17px 20px -11px rgba(175, 175, 175, 0.71);
+border-radius: 10px;
+}
+
+.text-reg{
+    text-align: center;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 32px;
+/* identical to box height */
+
+letter-spacing: 0.035em;
+
+color: #000000;
+}
+
+.lol {
+    margin-left: 30%;
+}

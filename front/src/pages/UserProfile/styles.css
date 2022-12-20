@@ -1,0 +1,148 @@
+
+.marginkok{
+    padding-top: 50px;
+}
+
+.harosh{
+    width: 444px;
+    height: 47px;
+    background: #000000;
+    border-radius: 10px;
+    margin-left: 30%;
+}
+
+.haroshtext{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.035em;
+
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 30px;
+    padding: 16px;
+}
+
+
+.studinfo{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-top: 50px;
+}
+
+
+.studbut{
+    background: #f28c28;
+    border-radius: 10px;
+    width: 410px;
+    height: 60px;
+    margin-top: 100px;
+    margin-left: 30%;
+}
+
+
+
+.progress{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.prog1{
+    width:151;
+    height: 233;
+}
+
+.prog2{
+    width:151;
+    height: 233;
+}
+
+.prog3{
+    width:151;
+    height: 233;
+}
+
+
+.progtitle{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.035em;
+
+    color:#fff;
+}
+
+.progachive{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 37px;
+/* identical to box height */
+
+    letter-spacing: 0.035em;
+    text-align: center;
+    color: #000;
+}
+
+.progtext{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.025em;
+    width: 151px;
+    height: 30px;
+    color:#fff;
+}
+
+.progsif{
+    color:#000;
+    font-size: 16px;
+    font-weight: 1500;
+}
+
+.studtex{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    letter-spacing: 0.035em;
+    text-align: center;
+    padding: 15px;
+    color: #FFFFFF;
+}
+
+
+.prof {
+    position: relative;
+    color: #ffffff; 
+    cursor: pointer;
+    line-height: 1; 
+    text-decoration: none; 
+  
+  }
+  .prof:after {
+    display: block;
+    position: absolute;
+    left: 0; 
+    width: 0;
+    height: 2px; 
+    background-color: #ffffff; 
+    content: "";
+    transition: width 0.3s ease-out;
+  }
+  
+  .prof:hover:after,
+  .prof:focus:after {
+    width: 100%;
+  }

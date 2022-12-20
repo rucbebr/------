@@ -1,0 +1,25 @@
+
+.registration-form {
+    padding-bottom: 50px;
+}
+
+
+.regist {
+    position: absolute;
+width: 300px;
+height: 490px;
+
+background: #FFFFFF;
+box-shadow: 0px 17px 20px -11px rgba(175, 175, 175, 0.71);
+border-radius: 10px;
+}
+
+.marginforreg{
+    margin-top: 50px;
+    border-radius: 30px;
+}
+
+.lef {
+    margin-left: 23px;
+}
+
